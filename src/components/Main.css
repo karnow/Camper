@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.gstatic.com');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Play&display=swap');
+
+main{
+    background: url('../assets/camper.jpg');
+    height: 1000px;
+    overflow: hidden;
+    text-align: center;
+    padding: 25px 25px;
+
+}
+
+main .main-overlay{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    display: flex;
+}
+
+.col-lg-12{
+    width: 480px;
+}
+
+main h2{
+    color: white;
+    font-size: 60px;
+    margin: 20px 0px;
+    letter-spacing: 1px;
+    font-family: 'Play', sans-serif;
+    
+}
+
+main p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10px 0px 15px 0px;
+    font-family: 'Play', sans-serif;
+}
+
+button {
+    background-color:#78cdca;
+    align-items: left;
+    padding: 18px 18px;
+    border: none;
+    border-radius: 30px;
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+}
+
+
+.ButtonMain {
+
+    background-color:#78cdca;
+    align-items: left;
+    padding: 18px 18px;
+    border: none;
+    border-radius: 49px;
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.container_main {
+    display: flex;
+    justify-content: right;
+    margin: 100px 100px 100px 60px;
+    margin-right: 800px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover {
+    color: white;
+}

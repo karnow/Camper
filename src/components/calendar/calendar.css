@@ -1,0 +1,46 @@
+
+
+.deletebutton {
+
+    background-color:#f0f0f0;
+    color:rgb(0, 0, 0);
+    align-items: left;
+    margin: 0px -0px -0px 503px;
+    border: none;
+    border-radius: 30px;
+    font-family: 'Play', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    cursor:pointer;
+    display:flex;
+    justify-content: end;
+   
+
+  }
+
+
+  .deletebutton:hover {
+    color: white;
+
+  }
+   
+  
+  .pres {
+
+    display:flex;
+    flex-direction: row;
+    padding: auto;
+    margin: auto;
+  }
+  
+  
+
+  .resdiv {
+    padding: auto;
+    margin: auto;
+  }
+
+  
+  .headerres{
+    margin: 10px;
+  }
